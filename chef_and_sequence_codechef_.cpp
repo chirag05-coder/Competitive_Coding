@@ -1,5 +1,5 @@
 Link for QUes:
-
+https://www.google.com/url?q=https://www.codechef.com/problems/CHFAR&sa=D&source=hangouts&ust=1619806462712000&usg=AFQjCNFslKX1j6bjPkDpko008Rqhp-QHEg
 
 
 
