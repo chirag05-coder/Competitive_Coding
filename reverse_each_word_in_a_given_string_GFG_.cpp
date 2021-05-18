@@ -29,6 +29,7 @@ class Solution
            
        }
        str.pop_back();
+     reverse(str.begin(),str.end());
        return str;
     }
         
