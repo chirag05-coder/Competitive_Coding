@@ -1,3 +1,6 @@
+Link for Ques:
+https://www.codechef.com/LTIME96B/problems/TANDJ1
+
 #include <iostream>
 using namespace std;
 
