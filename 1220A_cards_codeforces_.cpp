@@ -1,4 +1,4 @@
-Link for Ques:
+// Link for Ques:
 https://codeforces.com/problemset/problem/1220/A
 
 
