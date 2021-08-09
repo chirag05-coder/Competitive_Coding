@@ -1,3 +1,4 @@
+//
 Link for Ques:
 https://www.google.com/url?q=https://codeforces.com/problemset/problem/1358/A&sa=D&source=hangouts&ust=1619701741927000&usg=AFQjCNFwzebllQRuY5hs9Kb53z3L0_EvsQ
 
