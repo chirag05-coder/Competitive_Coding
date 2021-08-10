@@ -4,9 +4,9 @@ https://www.google.com/url?q=https://codeforces.com/problemset/problem/1358/A&sa
 
 
 
-#include<bits/stdc++.h>
+#include<iostream>
 #define fastio ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
-#define endl "\n"
+
 #define lli long long int
 
 using namespace std;
@@ -17,7 +17,7 @@ int main()
    cin>>t;
    while(t--)
    {
-       long long int n,m;
+        long int n,m;
        cin>>n>>m;
        if((n*m)%2==0)
        {
