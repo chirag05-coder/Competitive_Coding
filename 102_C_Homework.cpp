@@ -1,4 +1,4 @@
-Link for Ques:
+// Link for Ques:
 https://codeforces.com/contest/102/problem/C
 
 
