@@ -62,8 +62,7 @@ bool is_prime(int num)
 }
 bool isPerfectSquare(long double x)
 {
-    // Find floating point value of
-    // square root of x.
+  
     if (x >= 0) {
  
         long long sr = sqrt(x);
