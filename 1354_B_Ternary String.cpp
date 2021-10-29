@@ -40,13 +40,7 @@ lli  gcd(lli u, lli v)
    } while (v != 0);
    return u << shift;
 }
-lli highestPowerof2(lli n)
-{
-  lli p = (int)log2(n);
-  // return (int)pow(2, p);   power
-  
-     return p;  //number
-}
+
 bool is_prime(int num)
 {      if(num==1)
       return false;
