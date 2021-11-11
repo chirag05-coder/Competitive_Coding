@@ -22,24 +22,7 @@ lli power(lli a,lli b)
 
 }
 
-lli  gcd(lli u, lli v)
-{
-   lli shift;
-   if (u == 0) return v;
-   if (v == 0) return u;
-   shift = __builtin_ctz(u | v);
-   u >>= __builtin_ctz(u);
-   do {
-       v >>= __builtin_ctz(v);
-       if (u > v) {
-         lli t = v;
-           v = u;
-           u = t;
-       }  
-       v = v - u;
-   } while (v != 0);
-   return u << shift;
-}
+
 lli highestPowerof2(lli n)
 {
   lli p = (int)log2(n);
